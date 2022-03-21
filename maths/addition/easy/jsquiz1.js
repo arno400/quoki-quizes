@@ -6,7 +6,7 @@
       correctAnswer: 1
     }, {
       question: "What is 18+29?",
-      choices: [72, 99, 58, 34, 56],
+      choices: [72, 99, 58, 47, 56],
       correctAnswer: 3
     }, {
       question: "What is 29+37?",
@@ -27,7 +27,7 @@
       correctAnswer: 1
     }, {
         question: "What is 17*12?",
-      choices: [29, 21, 36, 22, 22],
+      choices: [29, 21, 36, 22, 322],
       correctAnswer: 0
     }, {
       question: "What is 19*23?",
