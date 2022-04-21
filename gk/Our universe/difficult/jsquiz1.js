@@ -1,25 +1,25 @@
 (function() {
     var questions = [{
-      question: "In which galaxy do we live?",
-      choices: ["Andromeda", "Milky Way", "None of the above", "All of the above", "Could not say"],
-      correctAnswer: 1
+      question: "When Pluto was declared as a draft planet?",
+      choices: ["2006", "2014", "1997", "2011", "2017"],
+      correctAnswer: 0
     }, {
-      question: "Which is the hottest planet in our solar system?",
-      choices: ["Mars", "Uranus", "Jupiter", "Saturn", "Venus"],
+      question: " which planet is called blue planet?",
+      choices: ["Jupiter", "Uranus", "Earth", "Saturn", "Venus"],
+      correctAnswer: 2
+    }, {
+      question: "Which planet is called as morning star?",
+      choices: ["Mars", "Uranus", "Jupiter", "Saturn", " Venus"],
       correctAnswer: 4
     }, {
-      question: "What is the temprature of Venus in fahrenheit?",
-      choices: [624, 763, 636, 900, 590],
+        question: "How many moons that do neptune have?",
+      choices: ["2", "82", "27", "14", "79"],
       correctAnswer: 3
-    }, {
-        question: "On which planet do we live?",
-      choices: ["venus", "mars", "earth", "uranus", "neptune"],
-      correctAnswer: 2
 
     }, {
-        question: "Which is the closest planet to sun?",
-      choices: ["mercury", "earth", "jupiter", "venus","saturn"],
-      correctAnswer: 0
+        question: "Who was first person to step on moon?",
+      choices: ["Yuri Gagarin", "Neil Armstrong", "Valentina Tereshkova", "Kalpana Chawla", "Jessica U. Meir"],
+      correctAnswer: 1
     }];
     
     var questionCounter = 0; //Tracks question number
