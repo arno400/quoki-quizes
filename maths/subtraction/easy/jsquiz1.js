@@ -9,30 +9,30 @@
       choices: [78, 99, 108, 81, 79],
       correctAnswer: 3
     }, {
-      question: "What is 9*7?",
-      choices: [124, 63, 436, 327, 248],
+      question: "What is 97-72?",
+      choices: [24, 25, 36, 27, 48],
       correctAnswer: 1
     }, {
-        question: "What is 7*3?",
-      choices: [67, 33, 21, 27, 48],
-      correctAnswer: 2
+        question: "What is 71-36?",
+      choices: [67, 33, 21, 25, 48],
+      correctAnswer: 3
 
     }, {
-        question: "What is 5*7?",
-      choices: [88, 25, 35, 44, 32],
-      correctAnswer: 2
-    }, {
-        question: "What is 8*8?",
-      choices: [81, 72, 56, 64, 97],
-      correctAnswer: 3
-    }, {
-        question: "What is 7*2?",
-      choices: [14, 11, 36, 22, 37],
+        question: "What is 25-17?",
+      choices: [8, 12, 5, 14, 9],
       correctAnswer: 0
     }, {
-      question: "What is 9*3?",
-      choices: [20, 30, 27, 50, 42],
-      correctAnswer: 2
+        question: "What is 68*28?",
+      choices: [51, 32, 56, 44, 48],
+      correctAnswer: 4
+    }, {
+        question: "What is 34*12?",
+      choices: [22, 31, 36, 22, 37],
+      correctAnswer: 0
+    }, {
+      question: "What is 91*36?",
+      choices: [60, 30, 27, 55, 42],
+      correctAnswer: 3
     }];
     
     var questionCounter = 0; //Tracks question number
