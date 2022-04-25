@@ -22,15 +22,15 @@
       choices: [8, 12, 5, 14, 9],
       correctAnswer: 0
     }, {
-        question: "What is 68*28?",
+        question: "What is 68-28?",
       choices: [51, 32, 56, 44, 48],
       correctAnswer: 4
     }, {
-        question: "What is 34*12?",
+        question: "What is 34-12?",
       choices: [22, 31, 36, 22, 37],
       correctAnswer: 0
     }, {
-      question: "What is 91*36?",
+      question: "What is 91-36?",
       choices: [60, 30, 27, 55, 42],
       correctAnswer: 3
     }];
