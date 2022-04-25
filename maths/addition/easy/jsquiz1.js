@@ -22,15 +22,15 @@
       choices: [88, 45, 62, 44, 32],
       correctAnswer: 2
     }, {
-        question: "What is 28*18?",
+        question: "What is 28+18?",
       choices: [81, 46, 56, 64, 97],
       correctAnswer: 1
     }, {
-        question: "What is 17*12?",
+        question: "What is 17+12?",
       choices: [29, 21, 36, 22, 322],
       correctAnswer: 0
     }, {
-      question: "What is 19*23?",
+      question: "What is 19+23?",
       choices: [20, 30, 27, 50, 42],
       correctAnswer: 4
     }];
