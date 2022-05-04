@@ -1,38 +1,38 @@
-(function() {
+ (function() {
     var questions = [{
       
-      question: "If A=72 then A+A=?",
-      choices: ["144", "122", "133", "155"],
+      question: "Tell 2 multiples of 75 ?",
+      choices: ["75,10", "75,14", "75,160", "75,140"],
       correctAnswer: 0
     }, {
-      question: "What is face value of 4 in 34270?",
-      choices: ["4", "30", "20", "40"],
-      correctAnswer: 0
-    }, {
-      question: "Which symbol must be putted in 17238_17238?",
-      choices: ["<", ">", "=", "none of the above"],
+      question: "Tell a multiple of 67 ?",
+      choices: [88, 128, 134, 137],
       correctAnswer: 2
     }, {
-        question: "Which symbol must be putted in 12722_12923?",
-      choices: ["<", ">", "=", "none of the above"],
-      correctAnswer: 0
+      question: "Tell 5 multiples of 26 ?",
+      choices: ["26,52,78,104,130", "28,58,98,108,140", "28,72,77,107,120", "27,58,78,124,150"],
+      correctAnswer: 2
+    }, {
+      question: "Tell 1 multiple of 86 ?",
+      choices: [88, 97, 160, 172],
+      correctAnswer: 3
 
     }, {
-        question: "Which symbol must be putted in 17342_13492?",
-      choices: ["<", ">", "=", "none of the above"],
+      question: "Tell 1 multiple of 49 ?",
+      choices: [98, 51, 99, 62],
+      correctAnswer: 0
+    }, {
+      question: "Tell 1 multiple of 77 ?",
+      choices: [63, 77, 87, 88],
       correctAnswer: 1
     }, {
-        question: "Which is largest 6 digit number + largest 2 digit number?",
-      choices: [99999, 10000, 99999999, 1000098],
+      question: "Tell 1 multiple of 63 ?",
+      choices: [137, 79, 89, 126],
       correctAnswer: 3
     }, {
-        question: "What is place value of 7 in 783493?",
-      choices: [7000, 7, 700, 700000],
-      correctAnswer: 3
-    }, {
-      question: "What is the difference between the place values of 5 in 27543215?",
-      choices: [499997, 499992, 499995, 499999],
-      correctAnswer: 2
+      question: "Tell 2 multiple of 18 ?",
+      choices: ["24,40", "18,36", "32,50", "16,30"],
+      correctAnswer: 1
     }];
     
     var questionCounter = 0; //Tracks question number
